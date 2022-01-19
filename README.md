@@ -1,8 +1,12 @@
 ## 🙍 About me
 
-I am Mikołaj and I am 20 years old. I mainly design and develop websites based on the popular CMS WordPress, online stores based on WooCommerce or Shoper. Recently, he is also working on projects based on the PHP framework - Laravel.
+I am Mikołaj and I am 20 years old. I mainly deal with the design and creation of interfaces and websites. I develop them in the most popular web technologies: HTML / SCSS / JavaScript, React, Gatsby, GraphQL, Git, TypeScript, npm. In my spare time, I also develop my knowledge of back-end and DevOps.
 
-I create projects not only according to rigidly adopted rules, but I can also offer other more interesting alternatives for the client. My projects are varied and so are the needs of the people who order the projects. I am a diligent, accurate and timely person. Everything is in order in my source code.
+I create projects not only according to strictly adopted rules, but also try to offer the client other, more interesting possible alternatives. My projects are varied, as are the needs of the people who commission them. I am a diligent, accurate and timely person. Order and aesthetics reign in my source code.
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikolaj-brzycki/)](https://www.linkedin.com/in/mikolaj-brzycki/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikibrzycki@gmail.com)](mailto:mikibrzycki@gmail.com)
+
 
 ## 🔧 Technologies
 
@@ -16,5 +20,3 @@ I create projects not only according to rigidly adopted rules, but I can also of
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)
-
-## 📕 The best projects
