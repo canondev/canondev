@@ -1,6 +1,6 @@
 ## 🙍 About me
 
-I am Mikołaj and I am 20 years old. I mainly deal with the design and creation of interfaces and websites. I develop them in the most popular web technologies: HTML / SCSS / JavaScript, React, Gatsby, GraphQL, Git, TypeScript, npm. In my spare time, I also develop my knowledge of back-end and DevOps.
+I am Mikołaj and I am 20 years old. I mainly deal with the design and creation of interfaces and websites. I develop them in the most popular web technologies: HTML / SCSS / JavaScript, React, Gatsby, Git. In my spare time, I also develop my knowledge of back-end and DevOps.
 
 I create projects not only according to strictly adopted rules, but also try to offer the client other, more interesting possible alternatives. My projects are varied, as are the needs of the people who commission them. I am a diligent, accurate and timely person. Order and aesthetics reign in my source code.
 
